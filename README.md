@@ -2,7 +2,7 @@
   <img src="logo.png" width="300px" alt="inverter_logo.png">
 </center>
 
-<h1>InverterOS</h1> - it's an ASCII OS that works on Batch and have a more functions! <br><br>
+<h1>InverterOS</h1> It's an ASCII OS that works on Batch and have a more functions! <br><br>
 
 <h1>Components:</h1> 
 <a src="https://www.win-rar.com/start.html?&L=4">WinRAR (Archivator)</a><br>
